@@ -11,7 +11,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css,next,react,git,github,vscode" />
 
-##  About Me
+##  👨🏻‍💻 About Me
 **- 🌱 Currently learning advanced programming** 
 **- 🎯 Goal: Become a professional developer** 
 **- 📫 Reach me: muhammadwhitearham@gmail.com**
@@ -29,9 +29,9 @@
 </a>
 </p>
 
-## 🌐 Connect With Me
+## 💬 Connect With Me
 
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@rexi_craftL)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@rexi_craftL)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://instagram.com/rexi_xj)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/ZJkzstGhUG)
 
