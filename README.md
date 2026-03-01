@@ -23,7 +23,7 @@
 
 ## 💬 Connect With Me
 
-**[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@rexi_craftL)**
+**[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@rexi_craft)**
 **[![Instagram](https://img.shields.io/badge/Instagram-de1f75?logo=instagram&logoColor=white)](https://instagram.com/rexi_xj)**
 **[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/ZJkzstGhUG)**
 
