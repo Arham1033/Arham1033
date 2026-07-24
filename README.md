@@ -11,7 +11,7 @@ Passionate about building modern web applications, exploring Artificial Intellig
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, JavaScript
+- **Languages:** JavaScript, Python, C++
 - **Frontend:** HTML, CSS, React, Next.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
