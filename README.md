@@ -1,6 +1,6 @@
 # Hi, I'm Arham 👋🏻
 
-**💻 Full Stack Web Developer | 🤖 AI Enthusiast | 🎮 Content Creator**
+**💻 Full Stack Web Developer | 🤖 AI Enthusiast | 🎮 Gamer**
 
 Passionate about building modern web applications, exploring Artificial Intelligence, and creating interactive user experiences with Next.js and MongoDB.
 
@@ -26,7 +26,7 @@ Passionate about building modern web applications, exploring Artificial Intellig
 - 🌱 Currently learning **Artificial Intelligence** and advanced web development.
 - 🚀 Building full-stack projects with **Next.js** and **MongoDB**.
 - 🎯 Goal: Become a professional Full Stack & AI Developer.
-- 🎮 I also create gaming content on YouTube.
+- 🎮 GG
 - 📫 Reach me at: **muhammadwhitearham@gmail.com**
 
 ---
